@@ -1,0 +1,40 @@
+
+.sc{
+    flex-direction: column;
+
+    align-items: center;
+}
+.box{
+    
+   
+    border-radius: 11px;
+    width: 90%;
+   padding: 11px 12px;
+  
+  
+}
+
+    
+   
+
+#home{
+    display: flex;
+ 
+    flex-direction: column;
+    padding: 3px 12px;
+    height: 315px;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+   
+}
+nav div img{
+    width: 66px;
+    height: 52px;
+   
+}
+#home::before{
+ 
+ 
+   padding: 1px 1px;
+}
